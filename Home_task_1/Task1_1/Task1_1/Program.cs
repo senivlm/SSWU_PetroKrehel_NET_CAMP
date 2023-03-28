@@ -1,5 +1,5 @@
 ﻿static void FillMatrixInClockOrder(int[,] matrix)
-{
+{//Вітаю. Перше завдання по створенню репозиторію Ви виконали.
     int rowCount = matrix.GetLength(0);
     int colCount = matrix.GetLength(1);
     int maxRow = rowCount - 1, maxCol = colCount - 1;
